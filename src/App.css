@@ -36,7 +36,8 @@ header > p {
 }
 
 .meme > img {
-  width: 100%;
+  width: 50%;
+  margin-left: 25%;
 }
 
 .meme > h2 {
@@ -48,7 +49,7 @@ header > p {
   margin: 15px 0;
   padding: 0 5px;
   font-family: impact, sans-serif;
-  font-size: 2em;
+  font-size: 4em;
   text-transform: uppercase;
   color: white;
   letter-spacing: 1px;
